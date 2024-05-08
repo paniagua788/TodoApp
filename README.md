@@ -1,2 +1,2 @@
 # TodoApp
-An basic ToDo List WebbApp
+A basic ToDo List WebbApp
